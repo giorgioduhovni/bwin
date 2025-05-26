@@ -7,7 +7,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 
-public class BwinBgTestJunit {
+public class BwinTestJunit {
     public BwinWebApplication bwinWebApplication = new BwinWebApplication();
 
     @BeforeEach
